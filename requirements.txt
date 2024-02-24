@@ -1,0 +1,9 @@
+typing_extensions==4.9.0
+pydantic_core==2.14.6
+fastapi
+uvicorn
+google-cloud-storage
+PyYAML 
+python-multipart
+psycopg2-binary
+python-jose
